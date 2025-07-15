@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Guillermo Gallardo 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://www.xtrafondos.com/wallpapers/resized/programacion-computadora-y-lentes-10837.jpg?s=large)">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://www.xtrafondos.com/wallpapers/resized/programacion-computadora-y-lentes-10837.jpg?s=large">
 
 <!--
 **GuillermoGallardo1998/GuillermoGallardo1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
