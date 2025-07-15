@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/HKgtSsK.jpeg">
 
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
