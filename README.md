@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Guillermo Gallardo 👋</h1>
 </div>
-<img src="https://imgur.com/a/UOOaUai">
+<img src="https://i.imgur.com/HKgtSsK.jpeg">
 
 <!--
 **GuillermoGallardo1998/GuillermoGallardo1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
