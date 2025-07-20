@@ -60,10 +60,13 @@
   <td colspan="2">
     <h3 align="center">Portafolio Web</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="500" alt="Portafolio Web"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Portafolio Web"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-blue?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Sitio web personal donde presento mi perfil como desarrollador web, habilidades, experiencia y todos los proyectos que ves en esta lista.</p>
@@ -77,10 +80,13 @@
   <td width="50%">
     <h3 align="center">Alojamientos Davis</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="Alojamientos Davis"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Alojamientos Davis"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Landing para hotel o servicio de alojamiento turístico. Página con enfoque visual, informativo y llamada a la acción clara.</p>
@@ -89,10 +95,13 @@
   <td width="50%">
     <h3 align="center">Tiamo Makeup</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="Tiamo Makeup"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Tiamo Makeup"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ffc0cb?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Landing profesional para maquilladora. Muestra servicios, galería de trabajos y contacto directo, ideal para promoción personal.</p>
@@ -104,10 +113,13 @@
   <td width="50%">
     <h3 align="center">Memos Chat</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="Memos Chat"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Memos Chat"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-90ee90?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>App estilo WhatsApp Web para chatear con usuarios ficticios (API + IA Gemini). Las respuestas imitan personalidades y traducen automáticamente. Ideal para practicar idiomas y demostrar integración de APIs avanzadas.</p>
@@ -116,10 +128,13 @@
   <td width="50%">
     <h3 align="center">Logic Games</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="Logic Games"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Logic Games"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-eee?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Pack de mini-juegos lógicos en JavaScript puro: Adivina el número, Fibonacci, Ahorcado, Piedra papel o tijera, FizzBuzz, Palíndromos y más.</p>
@@ -131,10 +146,13 @@
   <td width="50%">
     <h3 align="center">Click-Cat</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="Click-Cat"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Click-Cat"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ffcc00?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Juego arcade reactivo con lógica de puntaje, eventos, temporizadores y animaciones. Haz clic en el gato lo más rápido posible en un tiempo limitado.</p>
@@ -143,10 +161,13 @@
   <td width="50%">
     <h3 align="center">ConAcción</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="ConAcción"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="ConAcción"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-faa?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Marketplace de servicios del hogar que conecta mujeres capacitadas con familias que necesitan apoyo. Destaca por su enfoque social y diseño inclusivo.</p>
@@ -158,10 +179,13 @@
   <td width="50%">
     <h3 align="center">DevConnect</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="DevConnect"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="DevConnect"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-00bfff?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Red social para desarrolladores donde puedes compartir ideas, escribir artículos técnicos, interactuar con la comunidad y descubrir nuevos talentos tech.</p>
@@ -170,10 +194,13 @@
   <td width="50%">
     <h3 align="center">Resident Evil E-commerce</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="#" width="400" alt="Resident Evil E-commerce"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Resident Evil E-commerce"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff3333?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
       <p>Tienda online temática de Resident Evil. Registro, inicio de sesión, historial de compras y arquitectura moderna con React, autenticación y manejo de estado.</p>
