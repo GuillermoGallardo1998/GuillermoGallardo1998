@@ -9,12 +9,12 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on creating an IoT platform for setting up and managing your own IoT implementations.
-- 👀 Interested in natural science, IoT and programming, recently obtained React certifications from Meta.
-- 🌱 Currently learning NextJS, Tailwind and some UX/UI principles.
-- 💞️ Looking to collaborate on interesting real-life application projects, especially those related with IoT, sports or finance.
-- 📫 How to reach me: Right here. Just send a DM and we can get in touch.
-- ⚡ Fun fact: I am a mechanical engineer, which led me to embedding, which in turn led me to web development.
+- 🔭 Actualmente desarrollando múltiples proyectos fullstack como parte de mi portafolio profesional: red social, e-commerce, chat con IA, juegos interactivos y más.  
+- 🧠 Apasionado por el desarrollo web fullstack, con experiencia creando aplicaciones completas que integran tanto el lado del cliente como del servidor. Siempre en busca de soluciones modernas, eficientes y escalables.  
+- 🌱 En constante aprendizaje sobre buenas prácticas, accesibilidad, experiencia de usuario, diseño funcional y arquitectura eficiente de aplicaciones web.  
+- 🤖 Me motiva crear herramientas útiles, explorar la inteligencia artificial aplicada y desarrollar experiencias que conecten la web con la interacción humana de forma intuitiva y automatizada.  
+- ⚡ Dato curioso: dejé todo para dedicarme a programar desde cero. Mi objetivo es demostrar que la disciplina y la determinación superan cualquier excusa.  
+
 
 ## Projects
 
