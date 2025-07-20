@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/HKgtSsK.jpeg">
 
 ## About me
-Passionate about building tech solutions that connect the digital and physical worlds. Currently focused on web development, automation, and interactive tools. Always learning, always sharing.
+Full stack web developer and engineer with a holistic approach to building functional, well-crafted digital solutions. I focus on modern application development, blending logic, design, and user experience. My background in client relations, logistics, and leadership helps me understand real-world needs and turn them into useful tools. Always learning, always building.
 - 🔭 I’m currently working on creating an IoT platform for setting up and managing your own IoT implementations.
 - 👀 Interested in natural science, IoT and programming, recently obtained React certifications from Meta.
 - 🌱 Currently learning NextJS, Tailwind and some UX/UI principles.
