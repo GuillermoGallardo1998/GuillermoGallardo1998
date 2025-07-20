@@ -4,9 +4,7 @@
 <img src="https://i.imgur.com/HKgtSsK.jpeg">
 
 ## About me
-
-## Passionate about building tech solutions that connect the digital and physical worlds. Currently focused on web development, automation, and interactive tools. Always learning, always sharing.
-
+Passionate about building tech solutions that connect the digital and physical worlds. Currently focused on web development, automation, and interactive tools. Always learning, always sharing.
 - 🔭 I’m currently working on creating an IoT platform for setting up and managing your own IoT implementations.
 - 👀 Interested in natural science, IoT and programming, recently obtained React certifications from Meta.
 - 🌱 Currently learning NextJS, Tailwind and some UX/UI principles.
