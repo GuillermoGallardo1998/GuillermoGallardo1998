@@ -4,72 +4,69 @@
 <img src="https://i.imgur.com/HKgtSsK.jpeg">
 
 ## About me
-<div align="justify">
-  Full stack web developer and engineer with a holistic approach to building functional, well-crafted digital solutions. I focus on modern application development, blending logic, design, and user experience. My background   in client relations, logistics, and leadership helps me understand real-world needs and turn them into useful tools. Always learning, always building.
+<div align="justify"> Full stack web developer and engineer with a holistic approach to building functional, well-crafted digital solutions. I focus on modern application development, blending logic, design, and user experience. My background in client relations, logistics, and leadership helps me understand real-world needs and turn them into useful tools. Always learning, always building.
 </div>
 <br>
 
-- 🔭 Actualmente desarrollando múltiples proyectos fullstack como parte de mi portafolio profesional: red social, e-commerce, chat con IA, juegos interactivos y más.  
-- 🧠 Apasionado por el desarrollo web fullstack, con experiencia creando aplicaciones completas que integran tanto el lado del cliente como del servidor. Siempre en busca de soluciones modernas, eficientes y escalables.  
-- 🌱 En constante aprendizaje sobre buenas prácticas, accesibilidad, experiencia de usuario, diseño funcional y arquitectura eficiente de aplicaciones web.  
-- 🤖 Me motiva crear herramientas útiles, explorar la inteligencia artificial aplicada y desarrollar experiencias que conecten la web con la interacción humana de forma intuitiva y automatizada.  
-- ⚡ Dato curioso: dejé todo para dedicarme a programar desde cero. Mi objetivo es demostrar que la disciplina y la determinación superan cualquier excusa.  
+- 🔭 Currently developing multiple fullstack projects as part of my professional portfolio: social network, e-commerce, AI chat, interactive games, and more.  
+- 🧠 Passionate about fullstack web development, with experience building complete applications that integrate both client and server sides. Always seeking modern, efficient, and scalable solutions.  
+- 🌱 Constantly learning about best practices, accessibility, user experience, functional design, and efficient web application architecture.  
+- 🤖 Motivated to create useful tools, explore applied artificial intelligence, and build experiences that connect the web with human interaction in an intuitive and automated way.  
+- ⚡ Fun fact: I left everything behind to start programming from scratch. My goal is to prove that discipline and determination overcome any excuse.  
 
-## 🛠️ Tecnologías & Habilidades
+## 🛠️ Technologies & Skills
 
 ### 🧩 Frontend
-- HTML5 / CSS3 / Sass / Responsive Design / Accesibilidad
-- TailwindCSS / Diseño orientado a componentes
-- JavaScript (ES6+) / TypeScript
-- React / Next.js / Astro / Vite
-- Manejo de estado: Zustand, React Hook Form, TanStack Query
-- Animaciones con Framer Motion
-- Arquitectura de componentes, patrones de diseño y buenas prácticas
+- HTML5 / CSS3 / Sass / Responsive Design / Accessibility  
+- TailwindCSS / Component-based Design  
+- JavaScript (ES6+) / TypeScript  
+- React / Next.js / Astro / Vite  
+- State Management: Zustand, React Hook Form, TanStack Query  
+- Animations with Framer Motion  
+- Component architecture, design patterns, and best practices  
 
-### 🎨 Diseño y UX
-- Figma / Diseño para developers / Sistemas de diseño
-- Principios de UI/UX centrados en la experiencia del usuario
+### 🎨 Design & UX
+- Figma / Developer-friendly design / Design systems  
+- UI/UX principles focused on user experience  
 
-### 🛠️ Herramientas de desarrollo
-- ESLint / Prettier / CodeStream / Chrome DevTools / Debugging
-- Terminal y línea de comandos
-- Testing y automatización con Cypress
+### 🛠️ Development Tools
+- ESLint / Prettier / CodeStream / Chrome DevTools / Debugging  
+- Terminal and command line  
+- Testing and automation with Cypress  
 
 ### 🔧 Backend
-- Node.js / Express.js / Fastify
-- Bases de datos: MongoDB / PostgreSQL / Firebase
-- ORM/ODM: Mongoose / Prisma
-- Autenticación: JWT / OAuth / NextAuth
-- APIs: REST / GraphQL
+- Node.js / Express.js / Fastify  
+- Databases: MongoDB / PostgreSQL / Firebase  
+- ORM/ODM: Mongoose / Prisma  
+- Authentication: JWT / OAuth / NextAuth  
+- APIs: REST / GraphQL  
 
 ### 🚀 Deploy & DevOps
-- Deploy: Vercel / Netlify / Render / Hostinger
-- Git / GitHub / GitHub Actions
-- Docker
+- Deployment: Vercel / Netlify / Render / Hostinger  
+- Git / GitHub / GitHub Actions  
+- Docker  
 
 ### 🤝 Soft Skills
-- Comunicación en equipo / Resolución de problemas
-- Liderazgo técnico / Code reviews
+- Team communication / Problem solving  
+- Technical leadership / Code reviews  
 
-
-
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <table>
 <tr>
   <td colspan="2">
-    <h3 align="center">Portafolio Web</h3>
+    <h3 align="center">Web Portfolio</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Portafolio Web"></a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Web Portfolio"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-blue?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Sitio web personal donde presento mi perfil como desarrollador web, habilidades, experiencia y todos los proyectos que ves en esta lista.</p>
+      <p>Personal website showcasing my profile as a web developer, skills, experience, and all the projects you see in this list.</p>
     </div>
   </td>
 </tr>
@@ -83,13 +80,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Alojamientos Davis"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Landing para hotel o servicio de alojamiento turístico. Página con enfoque visual, informativo y llamada a la acción clara.</p>
+      <p>Landing page for a hotel or tourist accommodation service. Visually focused, informative, and with a clear call to action.</p>
     </div>
   </td>
   <td width="50%">
@@ -98,13 +95,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Tiamo Makeup"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ffc0cb?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-ffc0cb?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Landing profesional para maquilladora. Muestra servicios, galería de trabajos y contacto directo, ideal para promoción personal.</p>
+      <p>Professional landing page for a makeup artist. Showcases services, a gallery of work, and direct contact — ideal for personal promotion.</p>
     </div>
   </td>
 </tr>
@@ -116,13 +113,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Memos Chat"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-90ee90?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-90ee90?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>App estilo WhatsApp Web para chatear con usuarios ficticios (API + IA Gemini). Las respuestas imitan personalidades y traducen automáticamente. Ideal para practicar idiomas y demostrar integración de APIs avanzadas.</p>
+      <p>WhatsApp Web-style app to chat with fictional users (API + Gemini AI). Responses mimic personalities and translate automatically. Great for practicing languages and showcasing advanced API integration.</p>
     </div>
   </td>
   <td width="50%">
@@ -131,13 +128,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Logic Games"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-eee?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-eee?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Pack de mini-juegos lógicos en JavaScript puro: Adivina el número, Fibonacci, Ahorcado, Piedra papel o tijera, FizzBuzz, Palíndromos y más.</p>
+      <p>Pack of pure JavaScript mini-games: Guess the number, Fibonacci, Hangman, Rock-Paper-Scissors, FizzBuzz, Palindromes, and more.</p>
     </div>
   </td>
 </tr>
@@ -149,13 +146,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Click-Cat"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ffcc00?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-ffcc00?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Juego arcade reactivo con lógica de puntaje, eventos, temporizadores y animaciones. Haz clic en el gato lo más rápido posible en un tiempo limitado.</p>
+      <p>Reactive arcade game with scoring logic, events, timers, and animations. Click the cat as fast as possible within a time limit.</p>
     </div>
   </td>
   <td width="50%">
@@ -164,13 +161,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="ConAcción"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-faa?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-faa?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Marketplace de servicios del hogar que conecta mujeres capacitadas con familias que necesitan apoyo. Destaca por su enfoque social y diseño inclusivo.</p>
+      <p>Home services marketplace that connects trained women with families needing support. Highlights include its social impact and inclusive design.</p>
     </div>
   </td>
 </tr>
@@ -182,13 +179,13 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="DevConnect"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-00bfff?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-00bfff?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Red social para desarrolladores donde puedes compartir ideas, escribir artículos técnicos, interactuar con la comunidad y descubrir nuevos talentos tech.</p>
+      <p>Social network for developers to share ideas, write tech articles, engage with the community, and discover new tech talent.</p>
     </div>
   </td>
   <td width="50%">
@@ -197,15 +194,16 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Resident Evil E-commerce"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ff3333?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-ff3333?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Tienda online temática de Resident Evil. Registro, inicio de sesión, historial de compras y arquitectura moderna con React, autenticación y manejo de estado.</p>
+      <p>Themed online store for Resident Evil. Includes registration, login, purchase history, and modern architecture with React, authentication, and state management.</p>
     </div>
   </td>
 </tr>
 </table>
+
 
