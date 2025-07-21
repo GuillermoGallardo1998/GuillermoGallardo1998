@@ -67,7 +67,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Sitio web personal donde presento mi perfil como desarrollador web, habilidades, experiencia y todos los proyectos que ves en esta lista.</p>
+      <p>A dedicated space where I present myself as a full stack web developer, showcasing not only my skills and experience but also my passion for building modern, responsive, and user-focused digital experiences. Here, you’ll find a carefully curated collection of my most meaningful projects—each one a reflection of my growth, creativity, and technical proficiency. Whether it's a playful app, an elegant landing page, or a complex full-stack solution, every project tells a story of continuous learning and problem-solving. This website is more than a portfolio—it's a window into my journey as a developer.</p>
     </div>
   </td>
 </tr>
