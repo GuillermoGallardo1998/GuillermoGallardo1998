@@ -39,7 +39,7 @@
 - Databases: MongoDB / PostgreSQL / Firebase  
 - ORM/ODM: Mongoose / Prisma  
 - Authentication: JWT / OAuth / NextAuth  
-- APIs: REST / GraphQL  
+- APIs: REST / Specialized API / GraphQL  
 
 ### 🚀 Deploy & DevOps
 - Deployment: Vercel / Netlify / Render / Hostinger  
