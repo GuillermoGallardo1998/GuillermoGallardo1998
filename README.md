@@ -61,7 +61,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Portafolio Web"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-blue?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -81,7 +81,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Alojamientos Davis"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -96,7 +96,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Tiamo Makeup"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ffc0cb?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -114,7 +114,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Memos Chat"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-90ee90?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -129,7 +129,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Logic Games"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-eee?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -147,7 +147,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Click-Cat"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ffcc00?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -162,7 +162,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="ConAcción"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-faa?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -180,7 +180,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="DevConnect"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-00bfff?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -195,7 +195,7 @@
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Resident Evil E-commerce"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff3333?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
