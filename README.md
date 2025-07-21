@@ -52,25 +52,22 @@
 
 ## 🚀 Featured Projects
 
+
 <table>
 <tr>
-  <td colspan="2" width="100%">
-    <h3 align="center">Web Portfolio</h3>
+  <td colspan="2">
+    <h3 align="center">Portafolio Web  (In progress)</h3>
     <div align="center">
-      <a href="#" target="_blank">
-        <img src="https://i.imgur.com/HKgtSsK.jpeg" width="800" alt="Web Portfolio">
-      </a>
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Portafolio Web"></a>
       <p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/CÓDIGO-blue?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p style="max-width: 800px; margin: 0 auto; text-align: center;">
-        Personal website showcasing my profile as a web developer, skills, experience, and all the projects you see in this list.
-      </p>
+      <p>Sitio web personal donde presento mi perfil como desarrollador web, habilidades, experiencia y todos los proyectos que ves en esta lista.</p>
     </div>
   </td>
 </tr>
@@ -79,7 +76,7 @@
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">Alojamientos Davis</h3>
+    <h3 align="center">Alojamientos Davis (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Alojamientos Davis"></a>
       <p>
@@ -94,7 +91,7 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">Tiamo Makeup</h3>
+    <h3 align="center">Tiamo Makeup (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Tiamo Makeup"></a>
       <p>
@@ -112,7 +109,7 @@
 
 <tr>
   <td width="50%">
-    <h3 align="center">Memos Chat</h3>
+    <h3 align="center">Memos Chat (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Memos Chat"></a>
       <p>
@@ -127,7 +124,7 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">Logic Games</h3>
+    <h3 align="center">Logic Games (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Logic Games"></a>
       <p>
@@ -145,7 +142,7 @@
 
 <tr>
   <td width="50%">
-    <h3 align="center">Click-Cat</h3>
+    <h3 align="center">Click-Cat (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Click-Cat"></a>
       <p>
@@ -160,7 +157,7 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">ConAcción</h3>
+    <h3 align="center">ConAcción (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="ConAcción"></a>
       <p>
@@ -178,7 +175,7 @@
 
 <tr>
   <td width="50%">
-    <h3 align="center">DevConnect</h3>
+    <h3 align="center">DevConnect (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="DevConnect"></a>
       <p>
@@ -193,7 +190,7 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">Resident Evil E-commerce</h3>
+    <h3 align="center">Resident Evil E-commerce (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Resident Evil E-commerce"></a>
       <p>
