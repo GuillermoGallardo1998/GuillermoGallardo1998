@@ -54,10 +54,12 @@
 
 <table>
 <tr>
-  <td width="100%">
+  <td colspan="2" width="100%">
     <h3 align="center">Web Portfolio</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Web Portfolio"></a>
+      <a href="#" target="_blank">
+        <img src="https://i.imgur.com/HKgtSsK.jpeg" width="800" alt="Web Portfolio">
+      </a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
@@ -66,7 +68,9 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Personal website showcasing my profile as a web developer, skills, experience, and all the projects you see in this list.</p>
+      <p style="max-width: 800px; margin: 0 auto; text-align: center;">
+        Personal website showcasing my profile as a web developer, skills, experience, and all the projects you see in this list.
+      </p>
     </div>
   </td>
 </tr>
