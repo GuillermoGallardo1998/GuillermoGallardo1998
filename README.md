@@ -54,7 +54,7 @@
 
 <table>
 <tr>
-  <td colspan="2">
+  <td width="100%">
     <h3 align="center">Web Portfolio</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="500" alt="Web Portfolio"></a>
