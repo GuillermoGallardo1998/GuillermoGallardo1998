@@ -157,18 +157,21 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">ConAcción (In progress)</h3>
+    <h3 align="center">Kypa</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="ConAcción"></a>
+      <a href="https://www.kypa.com.co/"><img src="https://imgur.com/I34hllv.png" width="400" alt="ConAcción"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="#" target="_blank">
+        <a href="https://kypa.com.co/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn1uqlDRT3jWYm59tn4Y_UtoCNbO_c9xBRHOi9tHlOKrsegtcgD1e8gi6pegA_aem_mWW8aPJoEeP6HUzt2xEEtg">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Home services marketplace that connects trained women with families needing support. Highlights include its social impact and inclusive design.</p>
+      <p>Website project to connect domestic workers with families, creating a social impact by facilitating employment for experienced cleaning professionals.
+        
+- Green button: takes you to the updated and improved version of kypa.
+- Click on the image: takes you to the original version, created 100% by me, which served as the foundation for the update.</p>
     </div>
   </td>
 </tr>
