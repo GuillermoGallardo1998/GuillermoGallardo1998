@@ -93,7 +93,7 @@
   <td width="50%">
     <h3 align="center">Tiamo Makeup (In progress)</h3>
     <div align="center">
-      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Tiamo Makeup"></a>
+      <a href="https://tiamo-makeup.web.app" target="_blank"><img src="https://i.imgur.com/nsVcAju.png" width="400" alt="Tiamo Makeup"></a>
       <p>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
