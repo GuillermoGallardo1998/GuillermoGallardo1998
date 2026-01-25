@@ -91,18 +91,18 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">Tiamo Makeup (In progress)</h3>
+    <h3 align="center">Tiamo Makeup</h3>
     <div align="center">
       <a href="https://tiamo-makeup.web.app" target="_blank"><img src="https://i.imgur.com/nsVcAju.png" width="400" alt="Tiamo Makeup"></a>
       <p>
-        <a href="#" target="_blank">
+        <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP" target="_blank">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="#" target="_blank">
+        <a href="https://tiamo-makeup.web.app" target="_blank">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Professional landing page for a makeup artist. Showcases services, a gallery of work, and direct contact — ideal for personal promotion.</p>
+      <p>Professional landing page for a professional makeup artist, showcasing services, portfolio gallery, and contact system. Built with React and Vite, using modular CSS and vanilla JavaScript. All animations and interactions were hand-coded with CSS and JavaScript (no animation libraries). The project emphasizes high performance, accessibility, SEO best practices, clean code with ESLint, and is deployed on Firebase Hosting with EmailJS integration.</p>
     </div>
   </td>
 </tr>
