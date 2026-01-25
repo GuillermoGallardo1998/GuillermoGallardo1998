@@ -159,7 +159,7 @@
   <td width="50%">
     <h3 align="center">Kypa</h3>
     <div align="center">
-      <a href="https://www.kypa.com.co/"><img src="https://imgur.com/I34hllv.png" width="400" alt="ConAcción"></a>
+      <a href="https://www.kypa.com.co/"><img src="https://i.imgur.com/V0FEWzt.png" width="400" alt="ConAcción"></a>
       <p>
         <a href="https://github.com/GuillermoGallardo1998/KYPA" target="_blank">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
