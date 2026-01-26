@@ -208,6 +208,39 @@
     </div>
   </td>
 </tr>
+
+<tr>
+  <td width="50%" valign="top">
+    <h3 align="center">pomodor (In progress)</h3>
+    <div align="center">
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="DevConnect"></a>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
+        </a>
+      </p>
+      <p align="justify">Social network for developers to share ideas, write tech articles, engage with the community, and discover new tech talent.</p>
+    </div>
+  </td>
+  <td width="50%" valign="top">
+    <h3 align="center">pagina de ventas (In progress)</h3>
+    <div align="center">
+      <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Resident Evil E-commerce"></a>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
+        </a>
+      </p>
+      <p align="justify">Themed online store for Resident Evil. Includes registration, login, purchase history, and modern architecture with React, authentication, and state management.</p>
+    </div>
+  </td>
+</tr>
 </table>
 
 
