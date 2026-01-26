@@ -87,7 +87,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Landing page for a hotel or tourist accommodation service. Visually focused, informative, and with a clear call to action.</p>
+      <p align="justify">Landing page for a hotel or tourist accommodation service. Visually focused, informative, and with a clear call to action.</p>
     </div>
   </td>
   <td width="50%" valign="top">
@@ -102,7 +102,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Professional landing page for a professional makeup artist, showcasing services, portfolio gallery, and contact system. Built with React and Vite, using modular CSS and vanilla JavaScript. All animations and interactions were hand-coded with CSS and JavaScript (no animation libraries). The project emphasizes high performance, accessibility, SEO best practices, clean code with ESLint, and is deployed on Firebase Hosting with EmailJS integration.</p>
+      <p align="justify">Professional landing page for a professional makeup artist, showcasing services, portfolio gallery, and contact system. Built with React and Vite, using modular CSS and vanilla JavaScript. All animations and interactions were hand-coded with CSS and JavaScript (no animation libraries). The project emphasizes high performance, accessibility, SEO best practices, clean code with ESLint, and is deployed on Firebase Hosting with EmailJS integration.</p>
     </div>
   </td>
 </tr>
@@ -120,7 +120,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>WhatsApp Web-style app to chat with fictional users (API + Gemini AI). Responses mimic personalities and translate automatically. Great for practicing languages and showcasing advanced API integration.</p>
+      <p align="justify">WhatsApp Web-style app to chat with fictional users (API + Gemini AI). Responses mimic personalities and translate automatically. Great for practicing languages and showcasing advanced API integration.</p>
     </div>
   </td>
   <td width="50%" valign="top">
@@ -135,7 +135,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Pack of pure JavaScript mini-games: Guess the number, Fibonacci, Hangman, Rock-Paper-Scissors, FizzBuzz, Palindromes, and more.</p>
+      <p align="justify">Pack of pure JavaScript mini-games: Guess the number, Fibonacci, Hangman, Rock-Paper-Scissors, FizzBuzz, Palindromes, and more.</p>
     </div>
   </td>
 </tr>
@@ -153,7 +153,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Reactive arcade game with scoring logic, events, timers, and animations. Click the cat as fast as possible within a time limit.</p>
+      <p align="justify">Reactive arcade game with scoring logic, events, timers, and animations. Click the cat as fast as possible within a time limit.</p>
     </div>
   </td>
   <td width="50%" valign="top">
@@ -168,7 +168,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Website project to connect domestic workers with families, creating a social impact by facilitating employment for experienced cleaning professionals.
+      <p align="justify">Website project to connect domestic workers with families, creating a social impact by facilitating employment for experienced cleaning professionals.
         
 - Green button: takes you to the updated and improved version of kypa.
 - Click on the image: takes you to the original version, created 100% by me, which served as the foundation for the update.</p>
@@ -189,7 +189,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Social network for developers to share ideas, write tech articles, engage with the community, and discover new tech talent.</p>
+      <p align="justify">Social network for developers to share ideas, write tech articles, engage with the community, and discover new tech talent.</p>
     </div>
   </td>
   <td width="50%" valign="top">
@@ -204,7 +204,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p>Themed online store for Resident Evil. Includes registration, login, purchase history, and modern architecture with React, authentication, and state management.</p>
+      <p align="justify">Themed online store for Resident Evil. Includes registration, login, purchase history, and modern architecture with React, authentication, and state management.</p>
     </div>
   </td>
 </tr>
