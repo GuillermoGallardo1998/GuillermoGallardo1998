@@ -75,7 +75,7 @@
 
 <table>
 <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Alojamientos Davis (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Alojamientos Davis"></a>
@@ -90,7 +90,7 @@
       <p>Landing page for a hotel or tourist accommodation service. Visually focused, informative, and with a clear call to action.</p>
     </div>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Tiamo Makeup</h3>
     <div align="center">
       <a href="https://tiamo-makeup.web.app"><img src="https://i.imgur.com/nsVcAju.png" width="400" alt="Tiamo Makeup"></a>
@@ -108,7 +108,7 @@
 </tr>
 
 <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Memos Chat (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Memos Chat"></a>
@@ -123,7 +123,7 @@
       <p>WhatsApp Web-style app to chat with fictional users (API + Gemini AI). Responses mimic personalities and translate automatically. Great for practicing languages and showcasing advanced API integration.</p>
     </div>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Logic Games (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Logic Games"></a>
@@ -141,7 +141,7 @@
 </tr>
 
 <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Click-Cat (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Click-Cat"></a>
@@ -156,7 +156,7 @@
       <p>Reactive arcade game with scoring logic, events, timers, and animations. Click the cat as fast as possible within a time limit.</p>
     </div>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Kypa</h3>
     <div align="center">
       <a href="https://www.kypa.com.co/"><img src="https://i.imgur.com/V0FEWzt.png" width="400" alt="ConAcción"></a>
@@ -177,7 +177,7 @@
 </tr>
 
 <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">DevConnect (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="DevConnect"></a>
@@ -192,7 +192,7 @@
       <p>Social network for developers to share ideas, write tech articles, engage with the community, and discover new tech talent.</p>
     </div>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <h3 align="center">Resident Evil E-commerce (In progress)</h3>
     <div align="center">
       <a href="#" target="_blank"><img src="https://i.imgur.com/HKgtSsK.jpeg" width="400" alt="Resident Evil E-commerce"></a>
