@@ -98,7 +98,7 @@
         <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://tiamo-makeup.web.app">
+        <a href="https://tiamomakeup.art/">
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
