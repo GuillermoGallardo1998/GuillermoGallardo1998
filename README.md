@@ -93,7 +93,7 @@
   <td width="50%" valign="top">
     <h3 align="center">Tiamo Makeup</h3>
     <div align="center">
-      <a href="https://tiamo-makeup.web.app"><img src="https://i.imgur.com/nsVcAju.png" width="400" alt="Tiamo Makeup"></a>
+      <a href="https://tiamomakeup.art/"><img src="https://i.imgur.com/nsVcAju.png" width="400" alt="Tiamo Makeup"></a>
       <p>
         <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
