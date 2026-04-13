@@ -98,9 +98,9 @@
   <td width="50%" valign="top">
     <h3 align="center">Tiamo Makeup</h3>
     <div align="center">
-      <a href="https://tiamomakeup.art/"><img src="https://i.imgur.com/ZieE0xi.png" width="400" height="300" alt="Tiamo Makeup"></a>
+      <a href="https://tiamomakeup.art/"><img src="https://i.imgur.com/FSSuOc7.png" width="400" height="300" alt="Tiamo Makeup"></a>
       <p>
-        <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP">
+        <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP-API">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="https://tiamomakeup.art/">
