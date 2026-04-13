@@ -100,7 +100,7 @@
     <div align="center">
       <a href="https://tiamomakeup.art/"><img src="https://i.imgur.com/FSSuOc7.png" width="400" height="300" alt="Tiamo Makeup"></a>
       <p>
-        <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP-API">
+        <a href="https://github.com/GuillermoGallardo1998/TIAMO-MAKEUP">
           <img src="https://img.shields.io/badge/CODE-003366?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="https://tiamomakeup.art/">
