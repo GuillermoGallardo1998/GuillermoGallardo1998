@@ -107,7 +107,7 @@
           <img src="https://img.shields.io/badge/LINK%20PAGE-green?style=for-the-badge&logo=googlechrome&logoColor=white">
         </a>
       </p>
-      <p align="justify">Professional landing page for a professional makeup artist, showcasing services, portfolio gallery, and contact system. Built with React and Vite, using modular CSS and vanilla JavaScript. All animations and interactions were hand-coded with CSS and JavaScript (no animation libraries). The project emphasizes high performance, accessibility, SEO best practices, clean code with ESLint, and is deployed on Firebase Hosting with EmailJS integration.</p>
+      <p align="justify">Professional landing page for a makeup artist with an integrated AI chat assistant 🤖, built with React + Vite on the frontend and a Node.js + Express backend deployed on Render, connected to the Gemini API to answer user questions in real time about services, portfolio, and booking; it includes a gallery, contact system with EmailJS, and a custom chatbot interface, with all animations and interactions hand-coded using CSS and JavaScript, focusing on high performance, SEO, accessibility, and a smooth, automated user experience.</p>
     </div>
   </td>
 </tr>
